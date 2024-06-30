@@ -11,7 +11,7 @@ export function Footer() {
                        rel="noreferrer"
                        className='hover:text-gray-300 transition'
                     >
-                        Created by Volod Goshko
+                        Created by Volod Go
                     </a>
                 </div>
             </div>
